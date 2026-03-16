@@ -47,5 +47,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add urls.json urls.md
-        git commit -m "Update URLs - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        git commit -m "Update URLs - $(date -u -d '+8 hours' '+%Y-%m-%d %H:%M:%S CST')"
         git push
