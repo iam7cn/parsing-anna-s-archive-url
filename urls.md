@@ -1,6 +1,6 @@
 # Anna's Archive 网址列表
 
-> 最后更新时间: 2026-03-16T01:12:59.867700
+> 最后更新时间: 2026-03-16 09:15:11 CST
 
 > 数据来源: [https://en.wikipedia.org/wiki/Anna%27s_Archive](https://en.wikipedia.org/wiki/Anna%27s_Archive)
 
@@ -16,4 +16,4 @@
 
 ## 说明
 
-此文件由自动化脚本生成，每天自动从 Wikipedia 获取最新信息。
+此文件由自动化脚本生成，每天北京时间 08:00 自动从 Wikipedia 获取最新信息。
