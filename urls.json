@@ -1,11 +1,7 @@
 {
-  "last_updated": "2026-05-04 11:45:10 CST",
+  "last_updated": "2026-05-05 11:29:38 CST",
   "source": "https://en.wikipedia.org/wiki/Anna%27s_Archive",
   "urls": [
-    {
-      "url": "https://annas-archive.gl/",
-      "display_text": "annas-archive.gl"
-    },
     {
       "url": "https://annas-archive.pk/",
       "display_text": "annas-archive.pk"
@@ -13,6 +9,10 @@
     {
       "url": "https://annas-archive.gd/",
       "display_text": "annas-archive.gd"
+    },
+    {
+      "url": "https://annas-archive.gl/",
+      "display_text": "annas-archive.gl"
     }
   ]
 }
